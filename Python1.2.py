@@ -1,0 +1,6 @@
+User_real_name = (input("What is your name?"))
+User_real_age = (input("What is you age"))
+User_real_sity = (input("Where do you live"))
+print("Hello",User_real_name)
+print("Your real age:",User_real_age)
+print("You live in :",User_real_sity)
