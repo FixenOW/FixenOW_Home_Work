@@ -1,5 +1,5 @@
 def filter_words(O):
    One=O.lower()
    Two=One.capitalize()
-   Tree = " ".join(Two.split())
-   return Tree
+   Three = " ".join(Two.split())
+   return Three
